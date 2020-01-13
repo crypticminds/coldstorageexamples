@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8df9b59-02ec-47ee-bf9d-b4a93a338513" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/annotations/Refrigerate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/cache/ColdStorage.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/callback/OnOperationSuccessfulCallback.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/cache/HigherOrderCachingTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/helper/CacheHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/cache/Cache.kt" beforeDir="false" afterPath="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/cache/Cache.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/cache/CacheTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/cache/CacheTest.kt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="227" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/cache/HigherOrderCachingTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/cache/ColdStorage.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2489">
+              <caret line="133" column="47" selection-start-line="133" selection-start-column="47" selection-end-line="133" selection-end-column="47" />
+              <folding>
+                <element signature="e#43#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/callback/OnValueFetchedCallback.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/helper/CacheHelper.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/annotations/Refrigerate.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/cache/CacheTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#43#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>destr</find>
+      <find>I AM</find>
+      <find>https://i.ytimg.com/vi/Pc20_oJQusc/maxresdefault.jpg</find>
+      <find>com.and</find>
+      <find>cache hi</find>
+      <find>conve</find>
+      <find>commitToS</find>
+      <find>shared</find>
+      <find>commit</find>
+      <find>get</find>
+      <find>aspect</find>
+      <find>key</find>
+      <find>getWit</find>
+      <find>isDa</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Anurag" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/cache/ImageCache.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/androidTest/java/com/arcane/coldstoragecache/ExampleInstrumentedTest.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/convertor/IConvertor.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/converter/IConvertor.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/model/CachedDataModel.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/callback/OnValueFetchedCallback.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/converter/IConverter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arcane/coldstorage/cache/ImageCache.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/androidTest/java/com/arcane/coldstoragecache/cache/CacheTest.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/converter/impl/StringToBitmapConverter.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/aspect/TestAspect.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/aspect/AspectTest.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/annotation/ColdStorage.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/annotation/Cache.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arcane/coldstorage/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/coldstoragecache/build.gradle" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com/arcane/coldstoragecache/aspect/CacheAspect.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/converter/impl/StringToBitmapConverterTest.kt" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arcane/coldstorage/invocationhandler/CacheInvocationHandler.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/arcane/coldstorage/application/Application.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/helper.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/test/java/com/arcane/coldstoragecache/cache/CacheTest.kt" />
+        <option value="$PROJECT_DIR$/coldstoragecache/src/main/java/com
