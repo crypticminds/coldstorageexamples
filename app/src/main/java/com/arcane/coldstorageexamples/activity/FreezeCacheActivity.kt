@@ -1,10 +1,11 @@
-package com.arcane.coldstorageexamples
+package com.arcane.coldstorageexamples.activity
 
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.arcane.coldstoragecache.callback.OnOperationSuccessfulCallback
+import com.arcane.coldstorageexamples.R
 import com.arcane.generated.MyBeautifulCacheLayer
 
 class FreezeCacheActivity : AppCompatActivity(), OnOperationSuccessfulCallback<String?> {
@@ -20,6 +21,7 @@ class FreezeCacheActivity : AppCompatActivity(), OnOperationSuccessfulCallback<S
     private val cacheLayer: MyBeautifulCacheLayer = MyBeautifulCacheLayer()
     //
     private var counter = 1
+    
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

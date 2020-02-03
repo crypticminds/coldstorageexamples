@@ -1,10 +1,11 @@
-package com.arcane.coldstorageexamples
+package com.arcane.coldstorageexamples.activity
 
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.arcane.coldstoragecache.callback.OnOperationSuccessfulCallback
+import com.arcane.coldstorageexamples.R
 import com.arcane.coldstorageexamples.remotecall.MakeRemoteCall
 import com.arcane.generated.GeneratedCacheLayer
 
